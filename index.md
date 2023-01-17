@@ -14,3 +14,4 @@ I am a 21 years old engineering student Bordeaux's [ENSEIRB-MATMECA](https://www
 ### Also, check out:
 
 - [My most recent curriculum vitae]()
+- [My projects]({{site.baseurl}}/projects/)
