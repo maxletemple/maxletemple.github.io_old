@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Maxime LETEMPLE
+description: Electronics engineering student at ENSEIRB-MATMECA (Bordeaux, France)
 
 baseurl: "/" #name of GitHub repository
 url: "https://maxletemple.github.io" #custom url to be used instead of GitHub repository
@@ -13,15 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
+twitter: "https://twitter.com/max_letemple"
+linkedin: "https://www.linkedin.com/in/maxime-letemple-186006162/"
+github: "https://github.com/maxletemple"
 instagram: "#"
-facebook: "#"
 
 
 # Markdown
