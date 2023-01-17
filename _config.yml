@@ -13,10 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "https://twitter.com/max_letemple"
-linkedin: "https://www.linkedin.com/in/maxime-letemple-186006162/"
-github: "https://github.com/maxletemple"
-instagram: "#"
+twitter: "max_letemple"
+linkedin: "maxime-letemple-186006162/"
+github: "maxletemple"
 
 
 # Markdown
