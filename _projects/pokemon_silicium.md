@@ -23,4 +23,5 @@ In order to display sprites, I had to convert .ppm files in a 8 bits ROM written
 More infos
 ===
 
-Resources and project code can be found [here](https://github.com/maxletemple/pokemon_silicium).
+- Resources and project code can be found [here](https://github.com/maxletemple/pokemon_silicium).
+- Download the report [here]({{site.baseurl}}/assets/pdf/pokemon_silicium.pdf)(in french).
