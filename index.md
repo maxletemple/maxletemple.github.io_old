@@ -15,16 +15,12 @@ I intend to use this website as a portfolio (see my [projects]({{site.baseurl}}/
 
 ### Quick resume
 
-June 2023 - August 2023
-
-University of Liège:
-
+June 2023 - August 2023\
+University of Liège:\
 Porting networking measurement tools on unikernels with Unikraft.
 
-February 2024 - Now
-
-University of Lille - CNRS:
-
+February 2024 - Now\
+University of Lille - CNRS:\
 Implementing a RISC V instruction set for benchmarking memory contention on multicore hardware.
 
 ### Also, check out:
